@@ -29,6 +29,8 @@ button{
   height: 50px;
   font-size: 2em;
   font-family: Ubuntu, moonhouse, helvetica;
+  color: rgb(78, 186, 136);
+  background-color: gray;
 }
 
 a{
