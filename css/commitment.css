@@ -1,6 +1,11 @@
 @font-face {
   font-family: moonhouse;
-  src: url(moonhouse.ttf);
+  src: url(../moonhouse.ttf);
+}
+
+@font-face {
+  font-family: space;
+  src: url(../BlackHoleBB.ttf);
 }
 
 body{
@@ -11,6 +16,7 @@ body{
 }
 
 h1{
+  font-family: space, Ubuntu, moonhouse;
   font-size: 3em;
   color: #CC9E50;
 }
