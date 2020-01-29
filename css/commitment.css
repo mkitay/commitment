@@ -8,3 +8,8 @@ body{
 h2{
   color: purple;
 }
+
+a{
+  color: green;
+  text-decoration: none;
+}
