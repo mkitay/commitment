@@ -24,6 +24,10 @@ h3{
   font-size: 2em;
 }
 
+button{
+  width: 35%;
+}
+
 a{
   color: #FFAC7D;
 }
