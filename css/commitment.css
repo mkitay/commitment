@@ -26,6 +26,12 @@ h3{
   font-family: Ubuntu, moonhouse, helvetica;
 }
 
+h4{
+  font-size: 3em;
+  color: rgb(78, 186, 136);
+  font-family: Ubuntu, moonhouse, helvetica;
+}
+
 button{
   width: 35%;
   height: 50px;
