@@ -1,8 +1,13 @@
+@font-face {
+  font-family: moonhouse;
+  src: url(moonhouse.ttf);
+}
+
 body{
   background-color: black;
   color: white;
   text-align: center;
-  font-family: futura, helvetica, sans-serif;
+  font-family: moonhouse, helvetica, sans-serif;
 }
 
 h1{
