@@ -60,6 +60,10 @@ button{
   border-radius: 30px;
 }
 
+button:hover{
+  background-color: black;
+}
+
 a{
   color: rgb(78, 186, 136);
 }
