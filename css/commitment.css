@@ -69,6 +69,7 @@ a:hover{
 }
 
 p{
+  font-size: 1.25em;
   color: rgb(78, 186, 136);
   font-family: Ubuntu, moonhouse, helvetica;
 }
