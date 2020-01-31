@@ -1,3 +1,3 @@
 # commitment
 
-Web Tapestry created by Max Kitay
+Space Themed Web Tapestry created by Max Kitay
