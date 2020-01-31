@@ -17,6 +17,7 @@ body{
 
 #music{
   width: 5%;
+  display: inline;
 }
 
 h1{
