@@ -68,6 +68,14 @@ a:hover{
   color: white;
 }
 
+#myh3{
+  color: #FFAC7D;
+}
+
+#myh3:hover{
+  color: white;
+}
+
 p{
   font-size: 1.25em;
   color: rgb(78, 186, 136);
